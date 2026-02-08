@@ -1,4 +1,5 @@
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fupptime.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fupptime?ref=badge_shield)
 
 <!--start: description-->
 
@@ -116,3 +117,6 @@ Four times per day, another workflow runs and records the response time of your 
 
 - Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fupptime.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fupptime?ref=badge_large)
